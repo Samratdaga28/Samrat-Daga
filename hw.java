@@ -6,9 +6,13 @@
  * @version (a version number or a date)
  */
 public class hw
-{
-    public static void main(String[] args)
+
+ {
+    public static void main(String[] args) 
     {
-        System.out.println(" My name is Samrat Daga");
+        String name = "Samrat Daga";  
+        System.out.println("My name is:");
+        System.out.println(name);
     }
 }
+
